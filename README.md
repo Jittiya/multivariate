@@ -3,7 +3,9 @@
 ### จิตติยา ID 623021043-3 
 
 .md => Markdown
+
 [] square brackets
+
 () parentheses
 
 ![chinchilla](1F462E1F-5A59-4030-B28F-584FC5ABFBA3.jpeg)
